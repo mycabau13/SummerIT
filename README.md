@@ -7,5 +7,7 @@ This final presentation showcases the projects I did and learn from the internsh
 ## Tools
 
 Slides
+
 Reveal.JS
+
 HTML/CSS
